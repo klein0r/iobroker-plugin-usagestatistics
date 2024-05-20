@@ -1,16 +1,16 @@
 # ioBroker plugin usage statistics
 
-[![NPM version](https://img.shields.io/npm/v/iobroker.trashschedule?style=flat-square)](https://www.npmjs.com/package/iobroker.trashschedule)
-[![Downloads](https://img.shields.io/npm/dm/iobroker.trashschedule?label=npm%20downloads&style=flat-square)](https://www.npmjs.com/package/iobroker.trashschedule)
-![node-lts](https://img.shields.io/node/v-lts/iobroker.trashschedule?style=flat-square)
-![Libraries.io dependency status for latest release](https://img.shields.io/librariesio/release/npm/iobroker.trashschedule?label=npm%20dependencies&style=flat-square)
+[![NPM version](https://img.shields.io/npm/v/iobroker-plugin-usagestatistics?style=flat-square)](https://www.npmjs.com/package/iobroker-plugin-usagestatistics)
+[![Downloads](https://img.shields.io/npm/dm/iobroker-plugin-usagestatistics?label=npm%20downloads&style=flat-square)](https://www.npmjs.com/package/iobroker-plugin-usagestatistics)
+![node-lts](https://img.shields.io/node/v-lts/iobroker-plugin-usagestatistics?style=flat-square)
+![Libraries.io dependency status for latest release](https://img.shields.io/librariesio/release/npm/iobroker-plugin-usagestatistics?label=npm%20dependencies&style=flat-square)
 
-![GitHub](https://img.shields.io/github/license/klein0r/iobroker.trashschedule?style=flat-square)
-![GitHub repo size](https://img.shields.io/github/repo-size/klein0r/iobroker.trashschedule?logo=github&style=flat-square)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/klein0r/iobroker.trashschedule?logo=github&style=flat-square)
-![GitHub last commit](https://img.shields.io/github/last-commit/klein0r/iobroker.trashschedule?logo=github&style=flat-square)
-![GitHub issues](https://img.shields.io/github/issues/klein0r/iobroker.trashschedule?logo=github&style=flat-square)
-![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/klein0r/iobroker.trashschedule/test-and-release.yml?branch=master&logo=github&style=flat-square)
+![GitHub](https://img.shields.io/github/license/klein0r/iobroker-plugin-usagestatistics?style=flat-square)
+![GitHub repo size](https://img.shields.io/github/repo-size/klein0r/iobroker-plugin-usagestatistics?logo=github&style=flat-square)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/klein0r/iobroker-plugin-usagestatistics?logo=github&style=flat-square)
+![GitHub last commit](https://img.shields.io/github/last-commit/klein0r/iobroker-plugin-usagestatistics?logo=github&style=flat-square)
+![GitHub issues](https://img.shields.io/github/issues/klein0r/iobroker-plugin-usagestatistics?logo=github&style=flat-square)
+![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/klein0r/iobroker-plugin-usagestatistics/test-and-release.yml?branch=master&logo=github&style=flat-square)
 
 ## Sponsored by
 
